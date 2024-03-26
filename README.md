@@ -2,15 +2,18 @@
 
 ## Version
 
--   Node: v18.17.0
--   Yarn: v3.6.3
+- Node: v18.17.0
+- Yarn: v3.6.3
 
 ##
 
--   FrameWork: React + Typescript + Vite + ReactRouterV6
--   UI: Scss + Tailwindcss
-    -   Tailwind Plugins: `tailwindcss-debug-screens` `@tailwindcss/typography`
--   Code specification: Prettier + Eslint
+- FrameWork: React + Typescript + Vite + ReactRouterV6
+- UI: Scss + Tailwindcss
+  - Tailwind Plugins:
+    - `tailwindcss-debug-screens`
+    - `@tailwindcss/typography`
+    - `prettier-plugin-tailwindcss` - https://tailwindcss.com/blog/automatic-class-sorting-with-prettier
+- Code specification: Prettier + Eslint
 
 # Procedure
 
