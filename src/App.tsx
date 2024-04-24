@@ -1,5 +1,5 @@
-import RouterApp from "./sections/RouterApp";
-import DebugScreensWrapper from "./sections/DebugScreensWrapper";
+import RouterApp from "@/pages/App/RouterApp";
+import DebugScreensWrapper from "@/pages/App/DebugScreensWrapper";
 
 function App() {
   return (
